@@ -1,4 +1,8 @@
-# For starts, checking how well PyCharm is integrated with github's services.
+# Alexandros I. Metsai
+# alexmetsai@gmail.com
+#
+# Just some basic stuff using this library.
+# Also checking how well PyCharm is integrated with github's services.
 
 import pygame
 
