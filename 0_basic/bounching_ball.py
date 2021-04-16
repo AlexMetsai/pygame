@@ -1,3 +1,7 @@
+# Alexandros Metsai
+# alexmetsai@gmail.com
+# Animate an ball that bounces on the window's edges.
+
 import sys
 import pygame
 
